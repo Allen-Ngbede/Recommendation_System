@@ -45,4 +45,3 @@ Items are recommended based on:
 
 ---
 
-## Project Structure
